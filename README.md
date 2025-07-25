@@ -1,8 +1,8 @@
 ![cool text](https://github.com/user-attachments/assets/253ad275-2e85-4af5-a06a-126cfd290db8)
 
-* im a amateur programmer and aspiring to artist, and also a tiny bit of musician.
-* im also a venezuelan soup enthusiast.
-* im currently doing random things that my brain tells me to do.
+* i'm a amateur programmer and aspiring to artist, but also a tiny bit of audio engineer.
+* i'm also a venezuelan soup enthusiast.
+* i'm currently doing random things that my brain tells me to do.
 * i want to code like a pro & draw stuff that don't look cursed.
 
 ### my discord: greensci
